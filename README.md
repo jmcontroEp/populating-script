@@ -1,5 +1,9 @@
 # populating-script
 
-Evidence Populating product: Item mon27-1-IPS inserted into Product table.
+Evidence populating:
 
-Evidence Populating stock: Item mon27-1-IPS inserted into Stock table.
+    1. Item mon27-1-IPS inserted into Product table.
+
+    2. Item mon27-1-IPS inserted into Stock table.
+
+Keys are not shown.
